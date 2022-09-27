@@ -1,7 +1,7 @@
 # Block-Diagram-Datasets
 
 This repository contains all the datasets used in the paper:  
-_BloSum: Block Diagram Summarization by Extracting Contextual Information_
+**_BloSum: Block Diagram Summarization by Extracting Contextual Information_**
 
 The goal of this paper is to automatically generate summaries from a block diagram image by extracting the contextual information and relationship between different shapes or nodes.
 
