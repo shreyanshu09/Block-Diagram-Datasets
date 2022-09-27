@@ -15,7 +15,7 @@ iii) Normal arrow which includes both thin and thick types of arrows.
 
 There are total 7 classes: Connection for circle, Data for parallelogram, Decision for diamond, Terminator for eclipse, Arrow, Text, and Process for all other shapes not mentioned above. Table below shows some of the statistics of all the datasets. For more information about the datasets, please go through the _BloSum_ paper.
 
-![teaser](stats.PNG)
+![teaser](stats.png)
 
 Images in the computerized block diagrams (CBD) dataset are collected through web crawling from different search engines such as Google, Yahoo, Bing, and Naver that are publicly available up to our knowledge. In addition, we manually replace around 50% of the text from each diagram with some different meaningful texts. Replacing texts also help with data privacy issue and protect personal and sensitive information.
 
