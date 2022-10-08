@@ -1,7 +1,7 @@
 # Block-Diagram-Datasets
 
 This repository contains all the datasets used in the paper:  
-**_BloSum: Block Diagram Summarization by Extracting Contextual Information_**
+**_Block Diagram-to-Text: Understanding Block Diagram Images by Generating Natural Language Descriptors_**
 
 The goal of this paper is to automatically generate summaries from a block diagram image by extracting the contextual information and relationship between different shapes or nodes.
 
@@ -13,7 +13,7 @@ i) Break arrow that has some gap in between an arrow,
 ii) Connected arrows where two or more arrows are interlinked together,
 iii) Normal arrow which includes both thin and thick types of arrows. 
 
-There are total 7 classes: Connection for circle, Data for parallelogram, Decision for diamond, Terminator for eclipse, Arrow, Text, and Process for all other shapes not mentioned above. Table below shows some of the statistics of all the datasets. For more information about the datasets, please go through the _BloSum_ paper.
+There are total 7 classes: Connection for circle, Data for parallelogram, Decision for diamond, Terminator for eclipse, Arrow, Text, and Process for all other shapes not mentioned above. Table below shows some of the statistics of all the datasets. For more information about the datasets, please go through the paper.
 
 ![teaser](stats.png)
 
