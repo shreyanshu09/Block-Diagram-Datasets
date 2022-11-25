@@ -35,6 +35,24 @@ Datasets:
 - FC\_A (aka [OHFCD](http://tc11.cvc.uab.es/datasets/OHFCD_1)): licensed under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/), as mentioned on the linked TC11 website
 - [FC\_B](https://cmp.felk.cvut.cz/~breslmar/flowcharts/): this dataset do not have a license
 
+## Citation
+Please consider citing this work in your publications if it helps your research.
+
+```
+@inproceedings{bhushan-lee-2022-block,
+    title = "Block Diagram-to-Text: Understanding Block Diagram Images by Generating Natural Language Descriptors",
+    author = "Bhushan, Shreyanshu  and
+      Lee, Minho",
+    booktitle = "Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022",
+    month = nov,
+    year = "2022",
+    address = "Online only",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-aacl.15",
+    pages = "153--168",
+
+```
+
 ## Contact
 
 For any questions or suggestions you can use the issues section or reach us at shreyanshubhushan@gmail.com.
