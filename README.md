@@ -41,15 +41,14 @@ Please consider citing this work in your publications if it helps your research.
 ```
 @inproceedings{bhushan-lee-2022-block,
     title = "Block Diagram-to-Text: Understanding Block Diagram Images by Generating Natural Language Descriptors",
-    author = "Bhushan, Shreyanshu  and
-      Lee, Minho",
+    author = "Bhushan, Shreyanshu  and Lee, Minho",
     booktitle = "Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022",
     month = nov,
     year = "2022",
     address = "Online only",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.findings-aacl.15",
-    pages = "153--168",
+    pages = "153--168"
 
 ```
 
