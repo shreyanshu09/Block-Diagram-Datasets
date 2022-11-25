@@ -1,7 +1,7 @@
 # Block-Diagram-Datasets
 
 This repository contains all the datasets used in the paper:  
-**_Block Diagram-to-Text: Understanding Block Diagram Images by Generating Natural Language Descriptors_**
+[**_Block Diagram-to-Text: Understanding Block Diagram Images by Generating Natural Language Descriptors_**](https://aclanthology.org/2022.findings-aacl.15/)
 
 The goal of this paper is to automatically generate summaries from a block diagram image by extracting the contextual information and relationship between different shapes or nodes.
 
